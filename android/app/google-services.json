@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727552886653",
+    "project_id": "unitimer-314b4",
+    "storage_bucket": "unitimer-314b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727552886653:android:bcecfab07e3642fc4aae14",
+        "android_client_info": {
+          "package_name": "com.eugvol.unitimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727552886653-2qtjfid4j9cfhpglqml3jknl480r2qcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsYiimG_a2dV360vTHyr_dBgJEc7nZ5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727552886653-2qtjfid4j9cfhpglqml3jknl480r2qcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
